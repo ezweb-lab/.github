@@ -4,11 +4,11 @@
 > 완성본 예제는 team member로 초대된 학생들에게만 공유되니 참고해주세요. 
 
 ## Frontend
-- [HTML](https://github.com/ezwebpub/web-basic_HTML)
-- [CSS](https://github.com/ezwebpub/web-basic_CSS)
-- [Javascript](https://github.com/ezwebpub/web-basic_Javascript)
-- [jQuery](https://github.com/ezwebpub/web-basic_jQuery)
-- [typescript](https://github.com/ezwebpub/web-basic_typeScript)
+- [HTML](https://github.com/ezweb-lab/HTML_BASIC_BASE)
+- [CSS](https://github.com/ezweb-lab/CSS_BASIC_BASE)
+- [Javascript](https://github.com/ezweb-lab/Javascript_BASIC_BASE)
+- [jQuery](https://github.com/ezweb-lab/jQuery_BASIC_BASE)
+- [typescript](https://github.com/ezweb-lab/TS_BASIC_BASE)
 - bootstrap, sass, react, typescript
 - 진행에 따라 오픈됩니다.
 
