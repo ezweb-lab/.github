@@ -9,7 +9,7 @@
 - [Javascript](https://github.com/ezweb-lab/Javascript_BASIC_BASE)
 - [jQuery](https://github.com/ezweb-lab/jQuery_BASIC_BASE)
 - [typescript](https://github.com/ezweb-lab/TS_BASIC_BASE)
-- bootstrap, sass, react, typescript- 
+- bootstrap, sass, typescript, react, vue.js
 - 완성본은 수업진도에 따라 [teams](https://github.com/orgs/ezweb-lab/teams) 메뉴에서 확인가능합니다.
 
 ## Backend
